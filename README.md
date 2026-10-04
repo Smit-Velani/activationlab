@@ -1,4 +1,4 @@
-# ActivationLab â€” Cloud-Native Distributed Platform
+# ActivationLab - Cloud-Native Distributed Platform
 
 ActivationLab is a distributed backend platform for reliable asynchronous job execution using **Python, Django REST Framework, PostgreSQL, Celery, RabbitMQ, Redis, Docker, Terraform, and GitHub Actions**.
 
